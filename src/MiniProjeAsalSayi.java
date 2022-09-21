@@ -1,4 +1,4 @@
-public class miniProjeAsalSayi {
+public class MiniProjeAsalSayi {
     public static void main(String[] args){
         int number = 25;
         int remainder = number % 2;
